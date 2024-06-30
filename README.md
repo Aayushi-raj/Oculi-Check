@@ -40,10 +40,6 @@ Early detection of eye diseases is crucial for effective treatment and managemen
 - OpenCV
 - Matplotlib
 
-##TEAM MEMBERS
--Harshil Malhotra
--Nityam Sharma
--Aayushi Raj
 
 
 ### Clone the Repository
@@ -57,3 +53,8 @@ cd oculi-check
 ``` 
 python app.py
 ```
+
+## TEAM MEMBERS
+- Harshil Malhotra
+- Nityam Sharma
+- Aayushi Raj
