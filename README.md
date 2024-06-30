@@ -43,6 +43,10 @@ Early detection of eye diseases is crucial for effective treatment and managemen
 
 ### Clone the Repository
 
+https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/655326bd-c715-492f-a5aa-650b36a8bd5f
+
+
+
 ```
 git clone https://github.com/harshilmalhotra/oculi-check.git
 cd oculi-check
