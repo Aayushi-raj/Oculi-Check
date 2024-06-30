@@ -58,3 +58,8 @@ python app.py
 - Harshil Malhotra
 - Nityam Sharma
 - Aayushi Raj
+
+## Working
+https://github.com/Harshilmalhotra/Oculi-Check/assets/111488708/aa924230-cd75-48e1-ac11-93ded3ea6415
+
+
