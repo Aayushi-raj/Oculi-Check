@@ -40,7 +40,11 @@ Early detection of eye diseases is crucial for effective treatment and managemen
 - OpenCV
 - Matplotlib
 
+![confusion matrix](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/ed2297d2-5888-4ce8-937c-195b38fb8446)
 
+![model loss](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/33a21df6-f7de-49bc-9c19-7619d27836b3)
+![model accuracy](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/c41c492c-1c20-4b81-a9f8-d44b2a047f3a)
+![classification report](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/65b3f9de-19cb-482a-9820-4bc5653a379c)
 
 ### Clone the Repository
 
