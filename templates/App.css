@@ -1,0 +1,110 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    display: flex;
+    justify-content: center; /* Center align content horizontally */
+    align-items: center; /* Center align content vertically */
+    height: 100vh; /* Ensure full viewport height */
+  }
+  
+  #root {
+    max-width: 900px;
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column; /* Stack header, main, footer vertically */
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .header-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .logo-small {
+    height: 60px; /* Adjust height as needed */
+    margin-right: 10px;
+  }
+  
+  .website-name {
+    font-family: 'Roboto', sans-serif; /* Example of using a different font */
+    font-size: 2rem;
+    color: #646cff;
+    margin: 0;
+  }
+  
+  .card {
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 12px 24px;
+    border: 2px solid #646cff;
+    color: #646cff;
+    background-color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+  }
+  
+  .btn:hover {
+    background-color: #646cff;
+    color: #fff;
+  }
+  
+  .btn-submit {
+    margin-left: 10px;
+    padding: 12px 24px;
+    border: none;
+    background-color: #646cff;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-submit:hover {
+    background-color: #5158c9;
+  }
+  
+  .footer-content {
+    text-align: center;
+    padding: 2rem 0; /* Adjusted padding */
+  }
+  
+  .footer-text {
+    color: #888;
+    font-size: 0.9rem;
+    margin: 0; /* Remove default margin */
+  }
+  
+  .website-description {
+    font-family: 'Open Sans', sans-serif; /* Example of using a different font */
+    font-size: 1.2rem;
+    color: #555;
+    line-height: 1.8;
+    margin-top: 1.5rem;
+  }
