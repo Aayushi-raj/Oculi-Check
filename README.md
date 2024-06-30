@@ -3,7 +3,13 @@
 ![eyelogo](https://github.com/Harshilmalhotra/Oculi-Check/assets/111488708/f70262d9-c737-4726-a74d-a3ba3cd74a3d)
 
 
+## Project Overview
 Oculi Check is a cutting-edge deep learning model based on the Xception architecture, designed to predict common eye diseases such as glaucoma, diabetic retinopathy, and cataract from retinal images. This project aims to provide a tool for early diagnosis and management of these conditions, helping to prevent vision loss and improve patient outcomes.
+
+# Problem Statement
+Retinal diseases like diabetic retinopathy, glaucoma, and cataracts cause significant vision loss. Current manual diagnostic methods are slow and error-prone, with a shortage of specialists leading to delays. Existing tools lack advanced AI capabilities, resulting in inefficient analysis. Patients face delayed treatment, risking blindness, while ophthalmologists and healthcare systems are overwhelmed, especially in low-resource areas.
+The ultimate goal is to create a tool for early diagnosis so that early treatment can be provided to patients.
+
 
 ## Table of Contents
 
@@ -40,11 +46,6 @@ Early detection of eye diseases is crucial for effective treatment and managemen
 - OpenCV
 - Matplotlib
 
-![confusion matrix](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/ed2297d2-5888-4ce8-937c-195b38fb8446)
-
-![model loss](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/33a21df6-f7de-49bc-9c19-7619d27836b3)
-![model accuracy](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/c41c492c-1c20-4b81-a9f8-d44b2a047f3a)
-![classification report](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/65b3f9de-19cb-482a-9820-4bc5653a379c)
 
 ### Clone the Repository
 
@@ -65,5 +66,17 @@ python app.py
 
 ## Working
 https://github.com/Harshilmalhotra/Oculi-Check/assets/111488708/aa924230-cd75-48e1-ac11-93ded3ea6415
+
+### Classification Report
+![classification report](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/65b3f9de-19cb-482a-9820-4bc5653a379c)
+
+#### Confusion Matrix
+![confusion matrix](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/ed2297d2-5888-4ce8-937c-195b38fb8446)
+#### Model Loss
+![model loss](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/33a21df6-f7de-49bc-9c19-7619d27836b3)
+
+#### Model Accuracy
+![model accuracy](https://github.com/Harshilmalhotra/Oculi-Check/assets/142774674/c41c492c-1c20-4b81-a9f8-d44b2a047f3a)
+
 
 
