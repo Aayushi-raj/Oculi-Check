@@ -31,6 +31,14 @@ def predict():
         predicted_class = np.argmax(predictions, axis=-1)
         
         print("Predicted class:", predicted_class)
+        if predicted_class == 0:
+            predicted_class = 'Cataract'  # Corrected spelling
+        elif predicted_class == 1:  # Corrected syntax error
+            predicted_class = 'Diabetic Retinopathy'
+        elif predicted_class == 2:  # Corrected syntax error
+            predicted_class = 'Glaucoma'
+        else:
+            predicted_class = 'Normal Eye'
         # Render a template and pass the predicted_class to it
         return render_template('result.html', predicted_class=predicted_class)
 
